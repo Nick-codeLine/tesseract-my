@@ -130,3 +130,4 @@ It is suggested to use leptonica with built-in support for [zlib](https://zlib.n
 For the latest online version of the README.md see:
 
 <https://github.com/tesseract-ocr/tesseract/blob/main/README.md>
+--changes
